@@ -1,0 +1,6 @@
+{
+  "name": "Public APIs Explorer",
+  "description": "Interactive directory, live tester, and project idea generator for 2,000+ free public APIs from github.com/public-apis/public-apis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
